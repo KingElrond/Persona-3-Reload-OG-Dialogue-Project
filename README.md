@@ -1,0 +1,2 @@
+# Persona 3 Reload OG Dialogue Project
+ This is a mod to replace the New Voiced Dialogue, with the Original Voice Dialogue, The mod will hopefully have a toggle to toggle between muting or not muting the new dialogue that wasn't present in the original game. There also is a plan to allow for the toggling of specific characters, so if you only want Akihiko's voice replaced, only his will be replaced for example. This utilizes the Ryo Framework. The audio is ripped from: Shin Megami Tensei: Persona 3 FES (U)(SLUS-21621), using Psound.
