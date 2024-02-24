@@ -1,0 +1,12 @@
+# P3R BGM Defaults
+# Override using file name for cue name.
+cue_name: 'cue1'
+
+# What audio player to play audio with.
+player_id: 149
+
+# Volume setting. Range: 0.0 to 1.0, maybe more but I didn't test.
+volume: 0.35
+
+sample_rate: 44100
+num_channels: 2

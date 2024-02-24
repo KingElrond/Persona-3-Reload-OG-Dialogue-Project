@@ -1,0 +1,66 @@
+{
+  "ModId": "p3rpc.sound.P3FESVoiceMod",
+  "ModName": "OG Dialogue Mod",
+  "ModAuthor": "KingElrond",
+  "ModVersion": "0.0.1",
+  "ModDescription": "Replace the new voices with the original voices from persona 3",
+  "ModDll": "",
+  "ModIcon": "",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "p3rpc.sound.P3FESVoiceMod.ReleaseMetadata.json",
+  "PluginData": {
+    "GameBananaDependencies": {
+      "IdToConfigMap": {
+        "Ryo.Reloaded": {
+          "Config": {
+            "ItemType": "Mod",
+            "ItemId": 495507
+          },
+          "ReleaseMetadataName": "Ryo.Reloaded.ReleaseMetadata.json"
+        }
+      }
+    },
+    "GitHubDependencies": {
+      "IdToConfigMap": {
+        "Reloaded.Memory.SigScan.ReloadedII": {
+          "Config": {
+            "UserName": "Reloaded-Project",
+            "RepositoryName": "Reloaded.Memory.SigScan",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "Reloaded.Memory.SigScan.ReloadedII.ReleaseMetadata.json"
+        },
+        "reloaded.sharedlib.hooks": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "Reloaded.SharedLib.Hooks.ReloadedII",
+            "UseReleaseTag": true,
+            "AssetFileName": "reloaded.sharedlib.hooks.zip"
+          },
+          "ReleaseMetadataName": "Sewer56.Update.ReleaseMetadata.json"
+        }
+      }
+    },
+    "GameBanana": {
+      "ItemType": "Mod",
+      "ItemId": 82900
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "Ryo.Reloaded"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "p3r.exe"
+  ],
+  "ProjectUrl": "https://gamebanana.com/wips/82900"
+}
