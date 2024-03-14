@@ -2,7 +2,7 @@
   "ModId": "p3rpc.sound.P3FESVoiceMod",
   "ModName": "OG Dialogue Mod",
   "ModAuthor": "KingElrond",
-  "ModVersion": "0.0.1",
+  "ModVersion": "0.0.3",
   "ModDescription": "Replace the new voices with the original voices from persona 3",
   "ModDll": "",
   "ModIcon": "",
@@ -24,6 +24,13 @@
             "ItemId": 495507
           },
           "ReleaseMetadataName": "Ryo.Reloaded.ReleaseMetadata.json"
+        },
+        "SharedScans.Reloaded": {
+          "Config": {
+            "ItemType": "Mod",
+            "ItemId": 495507
+          },
+          "ReleaseMetadataName": "SharedScans.Reloaded.ReleaseMetadata.json"
         }
       }
     },
@@ -50,7 +57,7 @@
       }
     },
     "GameBanana": {
-      "ItemType": "Mod",
+      "ItemType": "Wip",
       "ItemId": 82900
     }
   },

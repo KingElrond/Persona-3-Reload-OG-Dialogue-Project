@@ -4,7 +4,7 @@
 # Set the ACB name the cue is from.
 acb_name: 'Voice_Event_Main_100_060_C'
 # Override using file name for cue name.
-cue_name: 'cue1'
+cue_name: 'cue13'
 
 # Category IDs to set on player when playing cue.
 category_ids: [2, 9, 15]
