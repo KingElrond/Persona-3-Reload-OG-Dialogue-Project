@@ -1,0 +1,17 @@
+# Defaults
+
+# REQUIRED FOR NON-BGM AUDIO
+# Set the ACB name the cue is from.
+acb_name: 'Voice_Event_Main_100_060_C'
+
+# Category IDs to set on player when playing cue.
+category_ids: [2, 9, 15]
+
+# What audio player to play audio with.
+player_id: -1
+
+# Volume setting. Range: 0.0 to 1.0, maybe more but I didn't test.
+volume: 0.7
+
+sample_rate: 44100
+num_channels: 2

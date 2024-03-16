@@ -1,0 +1,5 @@
+# P3R BGM Defaults
+
+# REQUIRED FOR NON-BGM AUDIO
+# Override using file name for cue name.
+cue_name: 'cue10'
